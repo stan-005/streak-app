@@ -1,0 +1,24 @@
+{
+  "habits": [
+    {
+      "id": "eefa",
+      "name": "Learning Spanish",
+      "startDate": "2024-05-20"
+    },
+    {
+      "id": "22f3",
+      "name": "Gaming",
+      "startDate": "2024-05-21"
+    },
+    {
+      "id": "29ef",
+      "name": "Smoking",
+      "startDate": "2024-05-24"
+    },
+    {
+      "id": "62bf",
+      "name": "Exercise",
+      "startDate": "2024-05-21"
+    }
+  ]
+}

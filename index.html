@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Habit Tracker</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>Welcome to My Streak Counter APP</h1>
+      <h2>It takes you only 21 days to form a habit lets GO !!</h2>
+      <p>Track your habits and build a streak!</p>
+    </header>
+    <main>
+      <section id="habit-form">
+        <input type="text" id="habit-name" placeholder="Enter habit name">
+        <input type="date" id="start-date">
+        <button id="add-habit">Add Habit</button>
+        <button id="update-habit">Update Habit</button>
+      </section>
+      <section id="habit-list"></section>
+    </main>
+  </div>
+  <script src="./dist/app.js" type="module"></script>
+</body>
+</html>
